@@ -142,7 +142,7 @@
     .nested{
         background-color: lightskyblue;
         padding: 1rem;
-        border: 4px solid white;
+        border: 4px solid white;  /*Non riesco a mettere il margin, senza che butti tutto a capo*/
     }
 
     .marg-top3{
